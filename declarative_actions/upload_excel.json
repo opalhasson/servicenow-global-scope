@@ -1,0 +1,8 @@
+{
+  "sys_id": "a4d0b9a5c3f803101c70bf0d0501319e",
+  "label": "Upload Excel",
+  "table": "sys_user",
+  "declarative_action_type": "server_script",
+  "active": "true",
+  "data_source_sys_id": "181fa161c3f803101c70bf0d050131b7"
+}

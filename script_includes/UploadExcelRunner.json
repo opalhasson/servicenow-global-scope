@@ -1,0 +1,8 @@
+{
+  "sys_id": "f2027569c3f803101c70bf0d050131d1",
+  "name": "UploadExcelRunner",
+  "api_name": "global.UploadExcelRunner",
+  "client_callable": true,
+  "active": true,
+  "access": "public"
+}
